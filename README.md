@@ -1,14 +1,14 @@
 ```bash
 $ whoami
 ```
-Hello, my name is Tanner Harkin, and I\'m a programming student and Java developer. I have always loved electronics, and especially computers; but first began programming when I was eight years old. I started with HTML, and slowly worked my way up to PHP. Eventually, due in part to the popularity of Minecraft, I began programming in Java. Ever since, I\'ve been slowly improving my skills on my own, and have even begun pursuing a degree in computer science to make my skills *\"official\"* to the wider world.
+Greetings! I am Tanner Harkin, a Cybersecurity and Network Administration student. My journey into the digital realm began when I was just eight, kicking off with HTML and then moving onto languages like PHP and Java. Over the years, my fascination with electronics, particularly computers, has led me to amass an array of programming skills. Although I've self-taught a lot, I believe in the power of formal education and have embarked on a degree to solidify my knowledge and open up more avenues in the field.
 
-However, programming is not my only passion. I\'m extremely interested in computer and physical security, ranging from lockpicking and RFID hacking, to obscure buffer overflows. I\'ve grown quite fond of the infosec community, but unfortunately, due to the (naturally) secretive nature of this industry, it has proven difficult to grow my skills. However, I\'m sure that I\'ll eventually meet someone who can help me make the connections I need to thrive.
+In addition to programming, my interests extend into the intricate world of computer and physical security. My intrigue ranges from lock-picking to RFID hacking and from obscure buffer overflows to the broader spectrum of infosec. While the clandestine nature of the industry has posed challenges, I remain optimistic about forging valuable connections that will further my learning.
 
 ```bash
 $ ls
 ```
-**Programming languages I write in:**
+**Programming languages I'm proficient in:**
  - Bash
  - Batch (Windows)
  - BASIC
@@ -16,19 +16,29 @@ $ ls
  - HTML
  - Java
  - JavaScript
- - Lua
+ - Python
  - TI nSpire Lua
  - PHP
- 
-**Programming languages I can understand/am learning:**
- - C
- - C#
- - C++
- - RBX Lua
- - COBOL (not good at it)
- - x86 ASM (not good at it)
- 
+
+**Networking skills:**
+ - IP Addressing (IPv4/IPv6)
+ - Subnetting & Supernetting
+ - VLAN Configuration and Management
+ - Routing Protocols (OSPF, EIGRP, BGP)
+ - Network Troubleshooting
+ - Cisco IOS Command Line Interface (CLI)
+ - Network Security Measures (ACLs, Firewalls)
+
+**Information security skills:**
+ - Threat Hunting and Analysis
+ - Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)
+ - Digital Forensics and Incident Response (DFIR)
+ - Endpoint Security Solutions
+ - Security Information and Event Management (SIEM)
+ - Vulnerability Assessment and Penetration Testing
+ - Malware Analysis and Reverse Engineering
+
 ```bash
 $ mkdir
 ```
-If you have a project in mind, or employment opportunity you believe I may be interested in, let me know! I\'m always open to interesting opportunities.
+Open for collaborations and opportunities! If there's a project or employment proposition you believe aligns with my skills and interests, please reach out. I'm always eager to explore new horizons.
