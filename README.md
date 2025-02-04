@@ -1,7 +1,7 @@
 ```bash
 $ whoami
 ```
-Greetings! I am Tanner Harkin, a Cybersecurity and Network Administration student. My journey into the digital realm began when I was just eight, kicking off with HTML and then moving onto languages like PHP and Java. Over the years, my fascination with electronics, particularly computers, has led me to amass an array of programming skills. Although I've self-taught a lot, I believe in the power of formal education and have embarked on a degree to solidify my knowledge and open up more avenues in the field.
+Greetings! I am Tanner Harkin, a Computer Science student. My journey into the digital realm began when I was just eight, kicking off with HTML and then moving onto languages like PHP and Java. Over the years, my fascination with electronics, particularly computers, has led me to amass an array of programming skills. Although I've self-taught a lot, I believe in the power of formal education and have embarked on a degree to solidify my knowledge and open up more avenues in the field.
 
 In addition to programming, my interests extend into the intricate world of computer and physical security. My intrigue ranges from lock-picking to RFID hacking and from obscure buffer overflows to the broader spectrum of infosec. While the clandestine nature of the industry has posed challenges, I remain optimistic about forging valuable connections that will further my learning.
 
