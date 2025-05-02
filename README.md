@@ -1,44 +1,37 @@
 ```bash
 $ whoami
 ```
-Greetings! I am Tanner Harkin, a Computer Science student. My journey into the digital realm began when I was just eight, kicking off with HTML and then moving onto languages like PHP and Java. Over the years, my fascination with electronics, particularly computers, has led me to amass an array of programming skills. Although I've self-taught a lot, I believe in the power of formal education and have embarked on a degree to solidify my knowledge and open up more avenues in the field.
 
-In addition to programming, my interests extend into the intricate world of computer and physical security. My intrigue ranges from lock-picking to RFID hacking and from obscure buffer overflows to the broader spectrum of infosec. While the clandestine nature of the industry has posed challenges, I remain optimistic about forging valuable connections that will further my learning.
+Hi, I’m **Tanner Harkin**— a Computer Science student with a lifelong passion for technology. I started exploring code at eight years old with HTML, and since then, I’ve expanded into PHP, Java, and a broad toolkit of languages and skills. While I’ve taught myself a lot over the years, I believe in the value of formal education and am pursuing my degree to deepen my expertise and unlock new opportunities.
+
+My interests go beyond code— I’m fascinated by both digital and physical security. Whether it’s lock-picking, RFID hacking, or buffer overflows, I love digging into the nuts and bolts of how things work (and how they break).
 
 ```bash
 $ ls
 ```
-**Programming languages I'm proficient in:**
- - Bash
- - Batch (Windows)
- - BASIC
- - CSS
- - HTML
- - Java
- - JavaScript
- - Python
- - TI nSpire Lua
- - PHP
 
-**Networking skills:**
- - IP Addressing (IPv4/IPv6)
- - Subnetting & Supernetting
- - VLAN Configuration and Management
- - Routing Protocols (OSPF, EIGRP, BGP)
- - Network Troubleshooting
- - Cisco IOS Command Line Interface (CLI)
- - Network Security Measures (ACLs, Firewalls)
+**Programming Languages**
 
-**Information security skills:**
- - Threat Hunting and Analysis
- - Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS)
- - Digital Forensics and Incident Response (DFIR)
- - Endpoint Security Solutions
- - Security Information and Event Management (SIEM)
- - Vulnerability Assessment and Penetration Testing
- - Malware Analysis and Reverse Engineering
+* Python, Java, PHP, JavaScript
+* HTML, CSS, Bash, Batch
+* TI-Nspire Lua, BASIC
+* Other languages I learn as needed
+
+**Networking**
+
+* IP Addressing (IPv4/IPv6), Subnetting/Supernetting
+* VLANs, Routing Protocols (OSPF, EIGRP, BGP)
+* Cisco IOS CLI, Troubleshooting, Firewalls, ACLs
+* (all the usual stuff)
+
+**Information Security**
+
+* Threat Hunting & DFIR
+* IDS/IPS, Endpoint Security
+* SIEM, Vulnerability Assessment, Malware Analysis
 
 ```bash
-$ mkdir
+$ mkdir opportunities
 ```
-Open for collaborations and opportunities! If there's a project or employment proposition you believe aligns with my skills and interests, please reach out. I'm always eager to explore new horizons.
+
+I’m open to collaboration, freelance work, internships, and new challenges. If you’re working on something interesting— especially in security, infrastructure, or creative tech— I’d love to hear from you.
